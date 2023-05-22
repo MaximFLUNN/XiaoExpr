@@ -1,0 +1,16 @@
+﻿  tinyexpr.c
+D:\StudioProject\XiaoExpr\XiaoExpr\tinyexpr.c(520,1): warning C4090: инициализация: разные квалификаторы "const"
+D:\StudioProject\XiaoExpr\XiaoExpr\tinyexpr.c(544,1): warning C4090: инициализация: разные квалификаторы "const"
+D:\StudioProject\XiaoExpr\XiaoExpr\tinyexpr.c(566,1): warning C4090: инициализация: разные квалификаторы "const"
+  XiaoExpr.cpp
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.h(39,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.h(55,44): warning C4018: <: несоответствие типов со знаком и без знака
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoBench.h(75,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.cpp(100,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.cpp(116,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Создание кода
+  554 of 908 functions (61.0%) were compiled, the rest were copied from previous compilation.
+    327 functions were new in current compilation
+    66 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  XiaoExpr.vcxproj -> D:\StudioProject\XiaoExpr\Release\XiaoExpr.exe

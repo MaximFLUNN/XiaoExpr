@@ -1,0 +1,19 @@
+﻿  XiaoExpr.cpp
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.h(39,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.h(40,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.h(54,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.h(56,44): warning C4018: <: несоответствие типов со знаком и без знака
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.h(249,26): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.h(271,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.h(456,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoBench.h(75,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoBench.h(147,60): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoBench.h(214,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoBench.h(579,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.cpp(24,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.cpp(23,14): warning C4101: out_finish: неиспользованная локальная переменная
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.cpp(80,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.cpp(96,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.cpp(288,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\StudioProject\XiaoExpr\XiaoExpr\XiaoExpr.cpp(289,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  XiaoExpr.vcxproj -> D:\StudioProject\XiaoExpr\x64\Debug\XiaoExpr.exe
